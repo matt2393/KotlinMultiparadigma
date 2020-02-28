@@ -1,0 +1,2 @@
+rootProject.name='KotlinMultiparadigma'
+include ':app'
